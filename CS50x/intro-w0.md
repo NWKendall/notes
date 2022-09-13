@@ -1,4 +1,4 @@
-<h1>Intro to CS50x</h1> 
+<h1>Intro to CS50x | Week 0</h1> 
 <h3>13/09/2022</h3>
 
 - input --> | | --> output
@@ -14,4 +14,5 @@
         - those questions with yes/no (1/0) answers
     - identify cycles and loops
         - those steps can be repeated
-    - 
+- correctedness - does it work (no matter how good / bad)
+- efficiently - how well does program work
