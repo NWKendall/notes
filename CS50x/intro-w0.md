@@ -14,5 +14,5 @@
         - those questions with yes/no (1/0) answers
     - identify cycles and loops
         - those steps can be repeated
-- correctedness - does it work (no matter how good / bad)
+- correctness - does it work (no matter how good / bad)
 - efficiently - how well does program work
