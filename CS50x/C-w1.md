@@ -14,4 +14,39 @@
         1. use cmd "make fileName"
         2. "./fileName"
 - Command Line Interface (CLI)
-- 
+- header files
+    - tell compiler to load required libraries required to run programme
+    - <stdio.h>, <cs50.h>
+        - menu of all available functions (e.g. printf())
+- linux commands
+    - cd = change directory
+    - cp = copy
+    - ls = list
+    - mkdir = make directory
+    - mv = move
+    - rm = remove
+    - rmdir = remove directory
+    - code = create file
+    - ./ = current directory
+    - cd .. = change to previous directory
+    - cd ../../ = change to grandparent
+    - cd / = go to home directory
+- data types
+    - int | %i = number
+        - ints support 4 billion numbers, 2 billion positive and 2 billion negative
+    - long | %li = big int
+    - float | %f = decimal number
+    - double = very big float
+    - char = single character
+    - string = words
+    - bool = 1/0
+    - lists/arrays = lists of s
+    - dictonary
+    - sets
+- operator
+    - % remainder/modula
+- floating point impresision = computers inability fundementally to represent all real numbers 100% precisely.
+    - this occurs as computers have finite memory, but numbers are infinite.
+    - computers handle this by overwriting numbers in memory.
+    - sometimes get truncation
+        - dividing integers with computers only handles whole numbers, but such equations often results in decimal values. The decimal numbers to the right of the ecimal point, are removed, or truncated.
