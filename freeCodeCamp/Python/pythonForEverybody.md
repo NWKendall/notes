@@ -29,3 +29,6 @@
     - ledt to right
 - data types
     - type() function checks data type
+## Functions
+- don't like to repeat ourselves
+- def = define function
